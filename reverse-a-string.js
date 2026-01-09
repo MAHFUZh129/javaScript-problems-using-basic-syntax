@@ -2,6 +2,6 @@ function reversestring (str){
     return str.split('').reverse().join('')
 }
 
-const result = reversestring('Mahfuz')
+const result = reversestring('orin')
 
-console.log(result)
+// console.log(result)
